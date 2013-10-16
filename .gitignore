@@ -30,6 +30,7 @@ magpie-*/src/main/java/META-INF/MANIFEST.MF
 *.iml
 *.ipr
 *.iws
+.idea/
 out
 test-output
 atlassian-ide-plugin.xml
